@@ -12,7 +12,14 @@ public static class Utils
     public static void SetRenderLayerInChildren(Transform transform, int layerNumber) //sets objects to be rendered or not. 
     {
         foreach (Transform trans in transform.GetComponentsInChildren<Transform>(true))
+        {
+           if (trans.CompareTag("IgnoreLayerChange"))
+                continue; //if object has the tag ignore layer it loops back from this point. Does not chang layer
+
             trans.gameObject.layer = layerNumber;
+
+        }
+           
     }
 
 }

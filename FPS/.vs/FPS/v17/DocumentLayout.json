@@ -1,42 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "A:\\pz\\FPS\\",
+  "WorkspaceRootPath": "A:\\FPSrepos\\FPS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\pz\\FPS\\assets\\scripts\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|a:\\fpsrepos\\fps\\assets\\scripts\\hp\\hphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hp\\hphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|a:\\pz\\fps\\assets\\scripts\\movement\\networkcharactercontrollerprototypecustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\networkcharactercontrollerprototypecustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\pz\\FPS\\assets\\scripts\\network\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\pz\\FPS\\assets\\scripts\\camera\\localcamerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\localcamerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\pz\\FPS\\assets\\scripts\\inputs\\characterinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputs\\characterinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\pz\\FPS\\assets\\scripts\\network\\networkinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\networkinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\pz\\FPS\\assets\\scripts\\network\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\pz\\FPS\\assets\\scripts\\movement\\charactermovementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\movement\\charactermovementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\charactermovementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\pz\\FPS\\assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\movement\\networkcharactercontrollerprototypecustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\networkcharactercontrollerprototypecustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\network\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\camera\\localcamerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\localcamerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\inputs\\characterinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputs\\characterinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\network\\networkinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\networkinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\network\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,23 +55,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeaponHandler.cs",
-              "DocumentMoniker": "A:\\pz\\FPS\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
-              "ToolTip": "A:\\pz\\FPS\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEsAAAAhAAAA",
+              "Title": "HPHandler.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\HP\\HPHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HP\\HPHandler.cs",
+              "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\HP\\HPHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HP\\HPHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T18:34:22.471Z",
+              "WhenOpened": "2024-09-03T18:32:47.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "WeaponHandler.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:34:22.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CharacterInputHandler.cs",
-              "DocumentMoniker": "A:\\pz\\FPS\\Assets\\Scripts\\Inputs\\CharacterInputHandler.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Inputs\\CharacterInputHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inputs\\CharacterInputHandler.cs",
-              "ToolTip": "A:\\pz\\FPS\\Assets\\Scripts\\Inputs\\CharacterInputHandler.cs",
+              "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Inputs\\CharacterInputHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\Inputs\\CharacterInputHandler.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAowBoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,11 +91,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "NetworkInputData.cs",
-              "DocumentMoniker": "A:\\pz\\FPS\\Assets\\Scripts\\Network\\NetworkInputData.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Network\\NetworkInputData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\NetworkInputData.cs",
-              "ToolTip": "A:\\pz\\FPS\\Assets\\Scripts\\Network\\NetworkInputData.cs",
+              "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Network\\NetworkInputData.cs",
               "RelativeToolTip": "Assets\\Scripts\\Network\\NetworkInputData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LocalCameraHandler.cs",
-              "DocumentMoniker": "A:\\pz\\FPS\\Assets\\Scripts\\Camera\\LocalCameraHandler.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Camera\\LocalCameraHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\LocalCameraHandler.cs",
-              "ToolTip": "A:\\pz\\FPS\\Assets\\Scripts\\Camera\\LocalCameraHandler.cs",
+              "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Camera\\LocalCameraHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\Camera\\LocalCameraHandler.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAQwDIAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,35 +115,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "NetworkPlayer.cs",
-              "DocumentMoniker": "A:\\pz\\FPS\\Assets\\Scripts\\Network\\NetworkPlayer.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Network\\NetworkPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\NetworkPlayer.cs",
               "ToolTip": "A:\\pz\\FPS\\Assets\\Scripts\\Network\\NetworkPlayer.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\Network\\NetworkPlayer.cs*",
+              "RelativeToolTip": "..\\..\\pz\\FPS\\Assets\\Scripts\\Network\\NetworkPlayer.cs*",
               "ViewState": "AQIAAA8AAAAAAAAAAAAowDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T18:13:09.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Utils.cs",
-              "DocumentMoniker": "A:\\pz\\FPS\\Assets\\Scripts\\Utils\\Utils.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Utils\\Utils.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\Utils.cs",
-              "ToolTip": "A:\\pz\\FPS\\Assets\\Scripts\\Utils\\Utils.cs",
+              "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Utils\\Utils.cs",
               "RelativeToolTip": "Assets\\Scripts\\Utils\\Utils.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T18:08:41.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Spawner.cs",
-              "DocumentMoniker": "A:\\pz\\FPS\\Assets\\Scripts\\Network\\Spawner.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Network\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\Spawner.cs",
-              "ToolTip": "A:\\pz\\FPS\\Assets\\Scripts\\Network\\Spawner.cs",
+              "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Network\\Spawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\Network\\Spawner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,28 +151,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "CharacterMovementHandler.cs",
-              "DocumentMoniker": "A:\\pz\\FPS\\Assets\\Scripts\\Movement\\CharacterMovementHandler.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Movement\\CharacterMovementHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\CharacterMovementHandler.cs",
-              "ToolTip": "A:\\pz\\FPS\\Assets\\Scripts\\Movement\\CharacterMovementHandler.cs",
+              "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Movement\\CharacterMovementHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\Movement\\CharacterMovementHandler.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCUAAAAqAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T20:26:46.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NetworkCharacterControllerPrototypeCustom.cs",
-              "DocumentMoniker": "A:\\pz\\FPS\\Assets\\Scripts\\Movement\\NetworkCharacterControllerPrototypeCustom.cs",
+              "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Movement\\NetworkCharacterControllerPrototypeCustom.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\NetworkCharacterControllerPrototypeCustom.cs",
-              "ToolTip": "A:\\pz\\FPS\\Assets\\Scripts\\Movement\\NetworkCharacterControllerPrototypeCustom.cs",
+              "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Movement\\NetworkCharacterControllerPrototypeCustom.cs",
               "RelativeToolTip": "Assets\\Scripts\\Movement\\NetworkCharacterControllerPrototypeCustom.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAgwBAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T20:25:54.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T20:25:54.524Z"
             }
           ]
         }

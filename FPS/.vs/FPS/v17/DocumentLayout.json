@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hp\\hphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|A:\\FPSrepos\\FPS\\assets\\scripts\\movement\\charactermovementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,20 +60,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\HP\\HPHandler.cs",
               "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\HP\\HPHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\HP\\HPHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwGEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T18:32:47.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WeaponHandler.cs",
               "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
               "ToolTip": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEsAAAAhAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAADgvzUAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T18:34:22.471Z"
             },
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Utils.cs",
               "DocumentMoniker": "A:\\FPSrepos\\FPS\\Assets\\Scripts\\Utils\\Utils.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\Utils.cs",

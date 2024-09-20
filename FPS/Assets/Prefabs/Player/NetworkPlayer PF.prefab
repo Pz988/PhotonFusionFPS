@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 8526777379671570178}
   - component: {fileID: 2227950720766638096}
   - component: {fileID: 7691822035478588830}
+  - component: {fileID: 2772085488261043165}
   m_Layer: 0
   m_Name: NetworkPlayer PF
   m_TagString: Untagged
@@ -101,6 +102,7 @@ MonoBehaviour:
   - {fileID: 7978004396071974170}
   - {fileID: 2227950720766638096}
   - {fileID: 7691822035478588830}
+  - {fileID: 2772085488261043165}
   SimulationBehaviours: []
 --- !u!114 &6149438283547569195
 MonoBehaviour:
@@ -202,6 +204,23 @@ MonoBehaviour:
   GizmosColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   Hitboxes:
   - {fileID: 684849224244724417}
+--- !u!114 &2772085488261043165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 901987456383849087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e36ac3af6418e4342a1c2decdb49b839, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _interpolationDataSource: 0
+  _isDead: 0
+  uiOnHitColor: {r: 0, g: 0, b: 0, a: 0}
+  uiOnHitImage: {fileID: 6896987535652397363}
+  bodyMeshRenderer: {fileID: 0}
 --- !u!1 &1305632172363824497
 GameObject:
   m_ObjectHideFlags: 0
@@ -584,6 +603,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5158413423520208469, guid: 0e42734578aa1994b9f1c91fc621f848, type: 3}
   m_PrefabInstance: {fileID: 716498383077456084}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &6896987535652397363 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6216804651717794279, guid: 0e42734578aa1994b9f1c91fc621f848, type: 3}
+  m_PrefabInstance: {fileID: 716498383077456084}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2350414996970671575
 PrefabInstance:
   m_ObjectHideFlags: 0
